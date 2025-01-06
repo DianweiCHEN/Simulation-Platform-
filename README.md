@@ -78,7 +78,7 @@ Additionally, this research has the potential to impact other scientific and eng
 
 ### Getting Started
 
-To get started with CARLA, you can visit the [official documentation](https://carla.readthedocs.io/)&[NSF_OAC project documentation](https://nsf-oac.readthedocs.io/en/latest/) and follow the installation instructions. 
+To get started with CARLA, you can visit the [official documentation](https://carla.readthedocs.io/)&[XXX project documentation](https://nsf-oac.readthedocs.io/en/latest/) and follow the installation instructions. 
 
 
 ## SUMO (Simulation of Urban MObility)
@@ -106,7 +106,7 @@ To get started with CARLA, you can visit the [official documentation](https://ca
 
 ### Getting Started
 
-To get started with SUMO, you can visit the [official documentation](https://sumo.dlr.de/docs/)&[NSF_OAC project documentation](https://nsf-oac.readthedocs.io/en/latest/) and follow the installation instructions. The SUMO community also provides a variety of tutorials and examples to help you learn how to use the simulator effectively.
+To get started with SUMO, you can visit the [official documentation](https://sumo.dlr.de/docs/)&[XXX project documentation](https://nsf-oac.readthedocs.io/en/latest/) and follow the installation instructions. The SUMO community also provides a variety of tutorials and examples to help you learn how to use the simulator effectively.
 
 
 ## CARLA SUMO Co-Simulation
@@ -125,10 +125,10 @@ CARLA and SUMO can be integrated to create a comprehensive simulation environmen
 
 ### Getting Started
 
-For setup and configuration, refer to the [CARLA-SUMO co-simulation guide](https://carla-simulator.readthedocs.io/en/latest/adv_sumo/)&[NSF_OAC project documentation](https://nsf-oac.readthedocs.io/en/latest/).
+For setup and configuration, refer to the [CARLA-SUMO co-simulation guide](https://carla-simulator.readthedocs.io/en/latest/adv_sumo/)&[XXX project documentation](https://nsf-oac.readthedocs.io/en/latest/).
 
 ## Resources
-- [NSF_OAC project documentation](https://nsf-oac.readthedocs.io/en/latest/)
+- [XXX project documentation](https://nsf-oac.readthedocs.io/en/latest/)
 - [CARLA-SUMO Co-Simulation Documentation](https://carla-simulator.readthedocs.io/en/latest/adv_sumo/)
 - [CARLA GitHub Repository](https://github.com/carla-simulator/carla)
 - [CARLA Documentation](https://carla.readthedocs.io/)
@@ -197,26 +197,6 @@ The calibration result is shown as follow:
 </p>
 
 
-
-## News 
-[2024/08/01] Version 1.0 released
-
-## Contact
-For more information or to get involved, please contact:
-
-**Principal Investigator:**
-Dr. Xianfeng Terry Yang
-- A. James Clark School of Engineering, Civil and Environmental Engineering
-- 3244 Jeong H. Kim Engineering Building
-- Tel: 301-405-2881
-- Email: xtyang@umd.edu
-
-**Ph.D. Student:**
-Dianwei Chen
-- A. James Clark School of Engineering, Civil and Environmental Engineering
-- 3107 Jeong H. Kim Engineering Building
-- Tel: 301-405-7768
-- Email: dwchen98@umd.edu
 
 ## Instructions for Building Customized Simulation
 - Download the Calibrated Co-Simulation
